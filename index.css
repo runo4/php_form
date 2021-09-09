@@ -1,0 +1,32 @@
+.main-container{
+    margin: 100px auto;
+    padding: 40px;
+    width: 60vw;
+    max-width: 480px;
+    min-width: 400px;
+    height: 100%;
+    border-radius: 20px;
+    background-color: rgb(220, 238, 238);
+}
+
+.form{
+    margin: 10px 0px 10px 0px;
+}
+
+#form__title{
+    text-align: center;
+    font-size: 1.6em;
+}
+
+#form__gender{
+    display: inline-block;
+}
+
+#form__inquiry-body textarea{
+    width: 100%;
+    resize: none;
+}
+
+#form__submit input{
+    width: 80px;
+}
